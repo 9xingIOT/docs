@@ -12,8 +12,6 @@ COPY .npmrc .
 COPY package.json .
 COPY pnpm-lock.yaml .
 COPY babel.config.js .
-COPY docusaurus.config.js .
-COPY sidebars.js .
 COPY tsconfig.json .
 
 RUN npm i pnpm@8.2.0 -g --registry=http://registry.npmmirror.com

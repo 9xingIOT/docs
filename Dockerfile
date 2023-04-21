@@ -8,8 +8,9 @@ COPY blog blog
 COPY src src
 COPY docs docs
 COPY static static
+COPY docusaurus.config.js .
+COPY sidebars.js .
 COPY nginx.conf .
-COPY CHANGELOG.md .
 
 RUN pnpm build-only
 
@@ -23,7 +24,7 @@ WORKDIR /app
 # 设置时区
 RUN echo "Asia/Shanghai" > /etc/timezone && ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
 
-COPY --from=builder /app/dist ./dist
+COPY --from=builder /app/build ./build
 COPY --from=builder /app/nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
