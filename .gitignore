@@ -1,0 +1,50 @@
+# Dependencies
+/node_modules
+
+# Production
+/build
+
+# 国际化资源？
+/i18n
+
+# ignore npm lock file and yarn.lock, use pnpm
+package-lock.json
+yarn.lock
+
+# Generated files
+.docusaurus
+.cache-loader
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# Tests
+/coverage
+/.nyc_output
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/bookmarks.json

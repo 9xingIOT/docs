@@ -1,0 +1,12 @@
+# 生产环境配置
+version: "3.8"
+services:
+  js904-docs:
+    image: registry.cn-hangzhou.aliyuncs.com/9xing/js904-docs:latest
+    container_name: js904-docs
+    hostname: js904-docs
+    restart: always
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - 39049:80

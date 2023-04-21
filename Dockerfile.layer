@@ -1,0 +1,20 @@
+# 开发环境镜像层
+FROM node:18.16.0-alpine as builder
+
+LABEL maintainer="Iric<zhangbing@9xing.cn>"
+
+# 设置时区
+RUN echo "Asia/Shanghai" > /etc/timezone && ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
+
+WORKDIR /app
+
+COPY .npmrc .
+COPY package.json .
+COPY pnpm-lock.yaml .
+COPY babel.config.js .
+COPY docusaurus.config.js .
+COPY sidebars.js .
+COPY tsconfig.json .
+
+RUN npm i pnpm@8.2.0 -g --registry=http://registry.npmmirror.com
+RUN pnpm i --frozen-lockfile --ignore-scripts
