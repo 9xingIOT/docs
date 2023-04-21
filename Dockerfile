@@ -12,7 +12,7 @@ COPY docusaurus.config.js .
 COPY sidebars.js .
 COPY nginx.conf .
 
-RUN pnpm build-only
+RUN pnpm build
 
 # Stage 2
 FROM nginx:1.20.2-alpine as prod
