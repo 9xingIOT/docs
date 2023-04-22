@@ -4,9 +4,6 @@
 # Production
 /build
 
-# 国际化资源？
-/i18n
-
 # ignore npm lock file and yarn.lock, use pnpm
 package-lock.json
 yarn.lock
