@@ -146,6 +146,11 @@ const config = {
          */
         playgroundPosition: "bottom",
       },
+      algolia:{
+        appId: '9NTFS7GTDJ',
+        apiKey: '47a1351a22a8b157c131ae2ec9406347',
+        indexName: 'prod_docs',
+      }
     }),
 };
 
