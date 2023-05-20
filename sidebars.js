@@ -1,3 +1,4 @@
+const test = require('./docs/tutorial-basics')
 /**
  * Creating a sidebar enables you to:
  - create an ordered group of docs
@@ -18,13 +19,19 @@ const sidebars = {
 
   // But you can create a sidebar manually
   tutorialSidebar: [
-    'intro',
+    // {
+    //   type: 'category',
+    //   label: '测试',
+    //   link: {type: 'doc', id: 'test/README'},
+    //   items: ['tutorial-basics/create-a-page', 'tutorial-basics/create-a-document'],
+    // },
+    test,
     {
       type: 'category',
-      label: '测试',
-      link: {type: 'doc', id: 'test/README'},
-      items: ['tutorial-basics/create-a-document'],
+      label: '开始',
+      items: ['tutorial-extras/translate-your-site', 'tutorial-extras/manage-docs-versions'],
     },
+    'intro',
   ]
 };
 
