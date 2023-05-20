@@ -63,19 +63,29 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "cloudSidebar",
             position: "left",
             label: "云平台文档",
           },
-          { to: "/blog", label: "Blog", position: "left" },
-          // {to: '/news', label: '平台消息', position: 'left'},
           {
-            type: "localeDropdown",
+            type: "docSidebar",
+            sidebarId: "manualSidebar",
+            position: "left",
+            label: "产品手册",
+          },
+          { to: "/blog", label: "平台消息", position: "left" },
+          {
+            href: "https://www.9xing.cn",
+            label: "官网",
             position: "right",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
+            href: "https://cloud.9xing.cn",
+            label: "九星云",
+            position: "right",
+          },
+          {
+            type: "localeDropdown",
             position: "right",
           },
         ],
