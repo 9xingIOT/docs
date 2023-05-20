@@ -18,5 +18,21 @@
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "item.label.产品手册": {
+    "message": "产品手册",
+    "description": "Navbar item with label 产品手册"
+  },
+  "item.label.平台消息": {
+    "message": "平台消息",
+    "description": "Navbar item with label 平台消息"
+  },
+  "item.label.官网": {
+    "message": "官网",
+    "description": "Navbar item with label 官网"
+  },
+  "item.label.九星云": {
+    "message": "九星云",
+    "description": "Navbar item with label 九星云"
   }
 }

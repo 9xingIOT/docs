@@ -6,5 +6,9 @@
   "sidebar.tutorialSidebar.category.测试": {
     "message": "测试",
     "description": "The label for category 测试 in sidebar tutorialSidebar"
+  },
+  "sidebar.cloudSidebar.category.设备管理": {
+    "message": "设备管理",
+    "description": "The label for category 设备管理 in sidebar cloudSidebar"
   }
 }
