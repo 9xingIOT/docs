@@ -14,5 +14,5 @@ COPY pnpm-lock.yaml .
 COPY babel.config.js .
 COPY tsconfig.json .
 
-RUN npm i pnpm@8.2.0 -g --registry=http://registry.npmmirror.com
+RUN npm i pnpm@8.5.1 -g --registry=http://registry.npmmirror.com
 RUN pnpm i --frozen-lockfile --ignore-scripts
