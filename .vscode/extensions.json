@@ -3,6 +3,7 @@
     "unifiedjs.vscode-mdx",
     "xyc.vscode-mdx-preview",
     "mervin.markdown-formatter",
-    "bierner.markdown-mermaid"
+    "bierner.markdown-mermaid",
+    "mistermunchkin.simple-markdown-snippets"
   ]
 }

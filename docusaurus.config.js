@@ -155,6 +155,9 @@ const config = {
         apiKey: "47a1351a22a8b157c131ae2ec9406347",
         indexName: "prod_docs",
       },
+      mermaid: {
+        theme: {light: 'forest', dark: 'forest'},
+      },
     }),
   stylesheets: [
     {
@@ -165,6 +168,10 @@ const config = {
       crossorigin: 'anonymous',
     },
   ],
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
 };
 
 module.exports = config;
