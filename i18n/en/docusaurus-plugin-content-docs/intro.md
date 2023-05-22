@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# 教程简介
+# Tutorial introduction
 
-让我们在不到5分钟的时间里学会**Docusaurus。
+Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
