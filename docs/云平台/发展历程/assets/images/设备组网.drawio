@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram name="第 1 页" id="jNZU41Rkb4lPsbUKZHmC">
+        <mxGraphModel dx="1319" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="-145" y="290" width="362" height="336" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-1" value="设备A" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="-72" y="381" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-2" value="设备B" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="45" y="357" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-3" value="设备C" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="-37" y="467" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-4" value="设备E" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="55" y="518" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-5" value="设备F" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="55" y="453" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-7" value="组1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+                    <mxGeometry x="-105" y="310" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="347" y="115" width="315" height="271" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-9" value="设备G" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="420" y="206" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-10" value="设备H" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="537" y="182" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-11" value="设备J" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="455" y="292" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-13" value="设备I" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="547" y="278" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-14" value="组2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+                    <mxGeometry x="387" y="135" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="384" y="467" width="315" height="271" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-17" value="设备K" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="457" y="558" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-18" value="设备N" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="574" y="534" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-19" value="设备L" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="492" y="644" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-20" value="设备M" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+                    <mxGeometry x="584" y="630" width="50" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-21" value="组3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+                    <mxGeometry x="424" y="487" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2C94okd9XKx-XbuDyvqj-22" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" parent="1" vertex="1">
+                    <mxGeometry x="288" y="433" width="41" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
+                    <mxGeometry x="-1" y="379" width="41" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
+                    <mxGeometry x="484" y="176" width="41" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
+                    <mxGeometry x="523" y="534" width="37" height="70.39" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
