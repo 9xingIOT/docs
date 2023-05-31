@@ -1,22 +1,22 @@
 {
   "title": {
-    "message": "九星文档",
-    "description": "The title in the navbar"
+    "message": "9Xing Document",
+    "description": "9Xing Document"
   },
   "logo.alt": {
-    "message": "九星文档",
-    "description": "The alt text of navbar logo"
+    "message": "9Xing Document",
+    "description": "9Xing Document"
   },
   "item.label.云平台文档": {
-    "message": "云平台文档",
-    "description": "Navbar item with label 云平台文档"
+    "message": "Cloud",
+    "description": "9Xing Cloud Document"
   },
   "item.label.Blog": {
-    "message": "Blog",
-    "description": "Navbar item with label Blog"
+    "message": "News",
+    "description": "9Xing News"
   },
   "item.label.GitHub": {
     "message": "GitHub",
-    "description": "Navbar item with label GitHub"
+    "description": "GitHub"
   }
 }

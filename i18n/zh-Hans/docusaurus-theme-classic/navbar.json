@@ -1,38 +1,38 @@
 {
   "title": {
     "message": "九星文档",
-    "description": "The title in the navbar"
+    "description": "九星物联网文档"
   },
   "logo.alt": {
     "message": "九星文档",
-    "description": "The alt text of navbar logo"
+    "description": "九星物联网文档"
   },
   "item.label.云平台文档": {
     "message": "云平台文档",
-    "description": "Navbar item with label 云平台文档"
+    "description": "九星云文档"
   },
   "item.label.Blog": {
-    "message": "Blog",
-    "description": "Navbar item with label Blog"
+    "message": "平台消息",
+    "description": "九星物联网平台消息"
   },
   "item.label.GitHub": {
     "message": "GitHub",
-    "description": "Navbar item with label GitHub"
+    "description": "GitHub仓库地址"
   },
   "item.label.产品手册": {
     "message": "产品手册",
-    "description": "Navbar item with label 产品手册"
+    "description": "产品手册"
   },
   "item.label.平台消息": {
     "message": "平台消息",
-    "description": "Navbar item with label 平台消息"
+    "description": "九星物联网平台消息"
   },
   "item.label.官网": {
     "message": "官网",
-    "description": "Navbar item with label 官网"
+    "description": "九星官网"
   },
   "item.label.九星云": {
     "message": "九星云",
-    "description": "Navbar item with label 九星云"
+    "description": "九星云"
   }
 }
