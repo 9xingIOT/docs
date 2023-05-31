@@ -153,7 +153,7 @@ const config = {
       algolia: {
         appId: "37QJHCXNEA",
         apiKey: "5128d98fdb038ab016e45f42bfdaeae9",
-        indexName: "9xing",
+        indexName: "prod",
         contextualSearch: true,
         searchParameters: {},
       },
