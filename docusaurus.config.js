@@ -153,7 +153,7 @@ const config = {
       algolia: {
         appId: "LNQZPXEE51",
         apiKey: "3cae79b49ee7d38a371207ab46ea8112",
-        siteId: '6de315bc-a9fc-4b66-b0cd-d04ae1b6a461',
+        // siteId: '6de315bc-a9fc-4b66-b0cd-d04ae1b6a461',
         // branch: 'master',
         // selector: 'div#search',
         indexName: "netlify_6de315bc-a9fc-4b66-b0cd-d04ae1b6a461_master_all",
