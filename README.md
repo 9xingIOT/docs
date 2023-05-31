@@ -23,3 +23,9 @@ $ pnpm serve
 ```
 
 生产预览类似于`Nginx`运行静态网页。
+
+## 爬虫更新
+
+```bash
+$ docker run -it --env-file=.env -e "CONFIG=$(cat ./config.json | jq -r tostring)" algolia/docsearch-scraper
+```
