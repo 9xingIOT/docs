@@ -156,7 +156,7 @@ const config = {
         siteId: '6de315bc-a9fc-4b66-b0cd-d04ae1b6a461',
         branch: 'master',
         selector: 'div#search',
-        // indexName: "prod",
+        indexName: "prod",
         contextualSearch: true,
         searchParameters: {},
       },
