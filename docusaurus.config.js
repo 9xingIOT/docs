@@ -151,9 +151,9 @@ const config = {
         playgroundPosition: "bottom",
       },
       algolia: {
-        appId: "9NTFS7GTDJ",
-        apiKey: "47a1351a22a8b157c131ae2ec9406347",
-        indexName: "prod",
+        appId: "37QJHCXNEA",
+        apiKey: "5128d98fdb038ab016e45f42bfdaeae9",
+        indexName: "9xing",
         contextualSearch: true,
         searchParameters: {},
       },
