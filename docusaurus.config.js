@@ -161,8 +161,8 @@ const config = {
         // sitemaps: ['https://docs.9xing.cn/sitemap.xml'],
         // ignoreCanonicalTo: true,
         // discoveryPatterns: ['https://docs.9xing.cn/**'],
-        contextualSearch: true,
-        searchParameters: {},
+        // contextualSearch: true,
+        // searchParameters: {},
       },
       mermaid: {
         theme: { light: "forest", dark: "forest" },
