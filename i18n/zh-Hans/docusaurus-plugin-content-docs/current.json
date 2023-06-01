@@ -10,5 +10,13 @@
   "sidebar.cloudSidebar.category.设备管理": {
     "message": "设备管理",
     "description": "The label for category 设备管理 in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.快速上手": {
+    "message": "快速上手",
+    "description": "The label for category 快速上手 in sidebar cloudSidebar"
+  },
+  "sidebar.cloudSidebar.category.摄像头管理": {
+    "message": "摄像头管理",
+    "description": "The label for category 摄像头管理 in sidebar cloudSidebar"
   }
 }
