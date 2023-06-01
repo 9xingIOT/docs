@@ -15,8 +15,24 @@
     "message": "News",
     "description": "9Xing News"
   },
+  "item.label.产品手册": {
+    "message": "Product Manual",
+    "description": "Product Manual"
+  },
+  "item.label.平台消息": {
+    "message": "News",
+    "description": "Platform Messages"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "GitHub"
+  },
+  "item.label.官网": {
+    "message": "Official Website",
+    "description": "9Xing official website"
+  },
+  "item.label.九星云": {
+    "message": "Cloud Website",
+    "description": "9Xing cloud website"
   }
 }
